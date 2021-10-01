@@ -17,17 +17,6 @@ Class de conexão de banco de dados, utilizando PDO. `PHP`.
 
 <br>
 
-### Instalação para desenvolvimento
-
-    # git clone ssh://git@br02sv42a.la.ad.goodyear.com:8086/php---americana---manufatura/div_b1/bladderlife.git
-
-### Características
-
-- Autenticação atráves do ``GoPass``
-- Banco de dados para persistência de dados ``BLADERRLIFE``
-
-<br>
-
 ### Arquivo de configuração
 
 Copie e renomeie o arquivo ``config.php.example`` para ``config.php``
